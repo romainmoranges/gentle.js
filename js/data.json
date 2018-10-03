@@ -1,0 +1,27 @@
+{
+
+  "test": "je suis un test",
+
+  "vulgar": {
+
+        "text": [
+          "connard",
+          "connasse",
+          "salope",
+          "con",
+          "enculé"
+        ]
+
+  },
+
+  "gentle": {
+
+        "text": [
+          "je t'aime",
+          "tu es formidable"
+        ],
+
+        "style": "pink"
+  }
+
+}

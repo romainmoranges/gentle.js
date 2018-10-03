@@ -1,0 +1,27 @@
+Plugin jquery
+=============
+
+o Idée originale, utile
+  Plugin inexistant ; plugin existant, apporter des modifs -> justifier le choix.
+
+o Documentation complète
+
+o Nom original
+
+o Plugin suffisamment indépendant de tout code utilisateur -> le plugin est utilisable dans tous les sites.
+
+o Publication du Plugin
+
+o Version classique ( avec commentaires ) + version min.
+
+||=============||
+||    Idées    ||
+||=============||
+
+o Filtres à insultes
+
+o troncature (existe déjà)
+
+o image zoomin (existe probablement déjà)
+
+o https://github.com/romainmoranges/gentle.js/blob/Alpha-0.1/README.md
